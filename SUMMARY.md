@@ -4,7 +4,7 @@
 * [第1部分 Linux 教程](part-1.md)
   * [chapter 1](part-1/chapter-1.md)
 * [第2部分 Shell 教程](part-2.md)
-  * [chapter 2](part-2/chapter-1.md)
+  * [chapter 1](part-2/chapter-1.md)
 * [第3部分 Linux 参考手册](part-3.md)
   * [第1章 Linux 命令大全(316)](part-3/chapter-1.md)
     * [01.文件管理(50)](part-3/chapter-1/1-01.md)
