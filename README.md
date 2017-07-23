@@ -8,3 +8,7 @@
 ---
 
 # 附录 1 学习路线图
+---
+### 说明:这一项目为学习过程中的一些记录和笔记,方便自己学习.
+### 资源来自W3CSchool
+### https://www.w3cschool.cn/linux/https://www.w3cschool.cn/linux/
