@@ -14,6 +14,8 @@
   * [第08章 ](part-2/chapter-08.md)
   * [第09章 ](part-2/chapter-09.md)
   * [第10章 ](part-2/chapter-10.md)
+  * [第11章 ](part-2/chapter-11.md)
+  * [第12章 ](part-2/chapter-12.md)
 * [第3部分 Linux 参考手册](part-3.md)
   * [第1章 Linux 命令大全\(316\)](part-3/chapter-1.md)
     * [01.文件管理\(50\)](part-3/chapter-1/1-01.md)
