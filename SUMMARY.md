@@ -2,6 +2,12 @@
 
 * [简介](README.md)
 * [第1部分 Linux 教程](part-1.md)
+  * [chapter 1](part-1/chapter-1.md)
 * [第2部分 Shell 教程](part-2.md)
+  * [chapter 2](part-2/chapter-2.md)
 * [第3部分 Linux 参考手册](part-3.md)
+  * [第1章 Linux 命令大全](part-3/chapter-1.md)
+  * [第2章 Nginx 安装配置](part-3/chapter-2.md)
+  * [第3章 MySQL 安装配置](part-3/chapter-3.md)
 * [附录 1 学习路线图](part-91.md)
+
